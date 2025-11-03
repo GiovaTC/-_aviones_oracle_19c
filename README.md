@@ -9,17 +9,15 @@ Programa **Java (para IntelliJ IDEA)** que :
 ---
 
 ## 🧩 1. Estructura del proyecto Maven :
-
-AvionesOracle19c/
-├─ src/
-│ └─ main/
-│ ├─ java/
-│ │ └─ com/example/oracleapp/
-│ │ └─ Main.java
-│ └─ resources/
-│ └─ logo_aviones.png
-└─ pom.xml
-
+- **AvionesOracle19c/**
+  - **src/**
+    - **main/**
+      - **java/**
+        - **com/example/oracleapp/**
+          - `Main.java`
+      - **resources/**
+        - `logo_aviones.png`
+  - `pom.xml`
 ---
 
 ## ⚙️ 2. Código Java — `Main.java` :
